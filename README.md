@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning JS and Python.
 - 💞️ I’m looking to collaborate on OpenSource Projects.
 - ✨ Dream Goal: Make a great contribution to Linux Kernel
-- 📫 How to reach me: twitter or IG: @VENIVERSVUM
+- 📫 How to reach me: twitter or IG: @VENIVERSVM
 
 <!---
 FranSabt/FranSabt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
